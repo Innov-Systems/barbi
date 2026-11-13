@@ -1,0 +1,12 @@
+ :root {
+  --bg: #ffffff;
+  --surface: #f7f7f8;
+  --accent: #cc1723;
+  --accent-hover: #ac101b;
+  --accent-soft: #fdf0f1;
+  --text: #202025;
+  --muted: #62626c;
+  --line: rgba(32, 32, 37, .12);
+  --radius: 18px;
+  --max: 1240px;
+}
